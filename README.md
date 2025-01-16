@@ -40,7 +40,7 @@ This is a simple news summarizer application built using Python and Tkinter. It 
 
 ## Example
 
-![News Summarizer GUI](News_summarizer_News_GUI.png)
+![News Summarizer GUI](News_GUI.png)
 
 ## License
 
